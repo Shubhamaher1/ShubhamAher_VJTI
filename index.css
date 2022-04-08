@@ -106,6 +106,9 @@
     justify-content: space-between;
     padding-right: 20px;
 }
+.project{
+    margin-left: 20px;
+}
 @media screen and (max-width:678px) {
     .main-section{
         display: block;
